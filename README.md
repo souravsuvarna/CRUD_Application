@@ -12,7 +12,7 @@ Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/souravsuvarna/CRUDApplication.git
+git clone https://github.com/souravsuvarna/CRUD_Application.git
 ```
 Open the project in your preferred IDE.
 

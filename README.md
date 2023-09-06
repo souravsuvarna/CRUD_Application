@@ -25,9 +25,9 @@ Build and run the application.
 ### API Endpoints
 The application provides the following RESTful API endpoints:
 ``` bash
-GET /getAllBooks: Retrieve a list of all books. <br>
-GET /getBookById/{id}: Retrieve a book by its ID.<br>
-POST /addBook: Add a new book.<br>
-POST /updateBookById/{id}: Update a book by its ID.<br>
-DELETE /deleteBookById/{id}: Delete a book by its ID.<br>
+GET /getAllBooks: Retrieve a list of all books. 
+GET /getBookById/{id}: Retrieve a book by its ID.
+POST /addBook: Add a new book.
+POST /updateBookById/{id}: Update a book by its ID.
+DELETE /deleteBookById/{id}: Delete a book by its ID.
 ```
